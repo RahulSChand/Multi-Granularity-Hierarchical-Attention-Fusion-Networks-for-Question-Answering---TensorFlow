@@ -1,4 +1,4 @@
-This is a TensorFlow implementation for "Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering" paper by Alibaba for Squad dataset. 
+This is a open source TensorFlow implementation for "Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering" paper by Alibaba for Squad dataset. 
 
 1) To train the network run the following command
 python main.py --experiment_name=baseline --mode=train
